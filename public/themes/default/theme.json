@@ -1,0 +1,16 @@
+{
+  "id": 0,
+  "slug": "Default",
+  "name": "Default Theme",
+  "description": "This is good place to start with",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Author",
+  "dir": "default",
+  "dependency": "",
+  "warning": "",
+  "released": true,
+  "compatible": "2.11.0",
+  "version": "3.0.0"
+}
